@@ -17,7 +17,13 @@
     "nanoid": "^3.3.4"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Anirudh Sahu",
+    "email": "renudilip19@gmail.com"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anirudh12032008/strapi-todo-plugin-anirudh.git"
   },
   "strapi": {
     "uuid": "242688c0-5b5c-4573-9604-e02d2c8523c2"

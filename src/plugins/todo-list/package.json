@@ -1,17 +1,26 @@
 {
-  "name": "todo-list",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
   "strapi": {
-    "name": "todo-list",
-    "description": "Description of Todo List plugin",
+    "name": "todo-list-strapi-plugin",
+    "description": "It is A todo plugin used to make todo list and don't forget the todos.",
     "kind": "plugin",
     "displayName": "Todo List"
   },
   "dependencies": {},
-  "author": {
-    "name": "A Strapi developer"
+
+
+  "name": "todo-plugin",
+  "version": "0.1.0",
+  "description": "A Strapi plugin made by anirudh sahu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anirudh12032008/strapi-todo-plugin-anirudh.git"
   },
+  "author": {
+    "name": "Anirudh Sahu",
+    "email": "renudilip19@gmail.com"
+  },
+
+
   "maintainers": [
     {
       "name": "A Strapi developer"
