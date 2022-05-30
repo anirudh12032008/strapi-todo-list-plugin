@@ -3,7 +3,7 @@
 module.exports = {
   index(ctx) {
     ctx.body = strapi
-      .plugin('todo-list')
+      .plugin('todo')
       .service('myService')
       .getWelcomeMessage();
   },
